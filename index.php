@@ -14,9 +14,11 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#services">Serviços</a>
           </li>
+          <!--
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
           </li>
+          -->
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#about">Sobre nós</a>
           </li>
@@ -37,7 +39,7 @@
       <div class="intro-text">
         <div class="intro-lead-in">Bem-vindo!</div>
         <div class="intro-heading text-uppercase">Que bom que você chegou!</div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Saber mais</a>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Blog</a>
       </div>
     </div>
   </header>
@@ -47,40 +49,40 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">Serviços</h2>
-          <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h2 class="section-heading text-uppercase">O que fazemos</h2>
+          <h3 class="section-subheading text-muted">Alguns serviços disponíveis para você.</h3>
         </div>
       </div>
       <div class="row text-center">
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
-          </span>
-          <h4 class="service-heading">E-Commerce</h4>
-          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-        </div>
-        <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
           </span>
-          <h4 class="service-heading">Responsive Design</h4>
-          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+          <h4 class="service-heading">Desenvolvimento</h4>
+          <p class="text-muted">Soluções personalizadas para pequenas empresas. Webpages. E-commerce. Faça um update na organização e qualifique sua equipe para enfrentar novos desafíos!</p>
         </div>
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+            <i class="fas fa-language fa-stack-1x fa-inverse"></i>
           </span>
-          <h4 class="service-heading">Web Security</h4>
-          <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+          <h4 class="service-heading">Localização</h4>
+          <p class="text-muted">Tradução Inglês e Espanhol. Legendagem. Revisão de texto. Produção de texto: newsletters, periódicos digitais e textos institucionais.</p>
+        </div>
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-chart-line fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading">Data Analytics</h4>
+          <p class="text-muted">Soluções em Analíticas (Google Analytics, Ads e Merchant Center). Tagueamento de páginas web. Relatórios de BI e Análise de dados em busca de oportunidades.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Portfolio Grid -->
+  <!-- Portfolio Grid 
   <section class="bg-light page-section" id="portfolio">
     <div class="container">
       <div class="row">
@@ -178,13 +180,13 @@
     </div>
   </section>
 
-  <!-- About -->
+   About -->
   <section class="page-section" id="about">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">About</h2>
-          <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          <h2 class="section-heading text-uppercase">Valores</h2>
+          <h3 class="section-subheading text-muted">A tecnologia a serviço das pessoas.</h3>
         </div>
       </div>
       <div class="row">
@@ -197,7 +199,7 @@
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>2009-2011</h4>
-                  <h4 class="subheading">Our Humble Beginnings</h4>
+                  <h4 class="subheading">Transformação Digital</h4>
                 </div>
                 <div class="timeline-body">
                   <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
@@ -211,7 +213,7 @@
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>March 2011</h4>
-                  <h4 class="subheading">An Agency is Born</h4>
+                  <h4 class="subheading">Design Thinking</h4>
                 </div>
                 <div class="timeline-body">
                   <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
@@ -225,7 +227,7 @@
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>December 2012</h4>
-                  <h4 class="subheading">Transition to Full Service</h4>
+                  <h4 class="subheading">Entrando na revolução dos Dados!</h4>
                 </div>
                 <div class="timeline-body">
                   <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
@@ -239,7 +241,7 @@
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>July 2014</h4>
-                  <h4 class="subheading">Phase Two Expansion</h4>
+                  <h4 class="subheading">Pense na Comunidade!</h4>
                 </div>
                 <div class="timeline-body">
                   <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
